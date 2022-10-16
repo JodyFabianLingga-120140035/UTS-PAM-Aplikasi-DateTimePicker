@@ -3,4 +3,5 @@ Ini adalah Aplikasi bernama **Date Time Picker.**
 
 Aplikasi ini berfungsi untuk menyediakan akses ke UI sistem untuk pemilihan tanggal dan waktu.
 # Daftar Expo Package yang Digunakan
-- Expo
+- Expo Status Bar
+- Expo DateTimePicker
