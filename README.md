@@ -6,4 +6,4 @@ Aplikasi ini berfungsi untuk menyediakan akses ke UI sistem untuk pemilihan tang
 - Expo Status Bar
 - Expo DateTimePicker
 # Cara Menginstall dan Menjalankan Aplikasi
-1. Silahkan Download Aplikasi [Download](https://expo.dev/artifacts/1396d24d-e4c5-49cf-a472-8b4c22d92742)
+1. Silahkan Download Aplikasi dengan cara [Klick Download](https://expo.dev/artifacts/1396d24d-e4c5-49cf-a472-8b4c22d92742)
