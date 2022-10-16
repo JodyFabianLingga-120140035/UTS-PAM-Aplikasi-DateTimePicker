@@ -1,2 +1,3 @@
 # Date Time Picker
-### Komponen yang menyediakan akses ke UI sistem untuk pemilihan tanggal dan waktu. ###
+###Inni adalah Aplikasi bernama Date Time Picker###
+###Aplikasi ini berfungsi untuk menyediakan akses ke UI sistem untuk pemilihan tanggal dan waktu. ###
