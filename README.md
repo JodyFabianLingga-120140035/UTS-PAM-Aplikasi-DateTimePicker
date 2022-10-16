@@ -7,4 +7,6 @@ Aplikasi ini berfungsi untuk menyediakan akses ke UI sistem untuk pemilihan tang
 - Expo DateTimePicker
 # Cara Menginstall dan Menjalankan Aplikasi
 1. Silahkan Download Aplikasi dengan cara [Klick di sini untuk Download](https://expo.dev/artifacts/1396d24d-e4c5-49cf-a472-8b4c22d92742)
-2. 
+2. Setelah itu Masuk ke Folder tempat aplikasi terdownload *(Biasanya Ada di Storage-->Download
+3. Tekan aplikasi pada file manager, lalu tekan settings, selanjutnya izinkan aplikasi untuk menginstall di perangkat.
+4. Jika sudah maka aplikasi sudah berhasil diinstal dan siap untuk digunakan.
